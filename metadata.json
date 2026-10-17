@@ -1,0 +1,6 @@
+{
+  "name": "Power BI Persian Date Slicer",
+  "description": "کاستوم ویژوال تقویم و اسلایسر تاریخ شمسی برای Power BI Desktop و Report Server با قابلیت انتخاب سال و ماه و بازه زمانی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
